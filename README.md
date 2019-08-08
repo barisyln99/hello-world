@@ -1,2 +1,5 @@
 # hello-world
-This is my first repository
+
+Hello everyone, 
+
+My name is Hasan Barış Yalçın. This is my first github repository.
